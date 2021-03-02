@@ -201,13 +201,13 @@ nav{
     top: 8px;
 }
 .thanhmenu>.danhmuc:hover .root{
-    width: 100%%;
+    width: 100%;
     display: inline-block;
     position: relative;
     display: block;
 }
 .thanhmenu>.danhmuc:hover .themeleft{
-    width: 100%%;
+    width: 100%;
     display: block;
 }
 .megaMenu{
@@ -303,7 +303,7 @@ article{
     margin-right: 10px;
 }
 .left table{
-    outline: ;
+    outline: none ;
     border-collapse: collapse;
     border: 1px solid gray;
     margin: 0;
